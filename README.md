@@ -2,6 +2,7 @@
 <h3 align="center">Aspiring software engineer on a journey of code and creation.</h3> 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400"/>
 </p>
+
 - 🌱 I’m currently learning **Naive Bayes(ML)**
 
 - 👯 I’m looking to collaborate on **Machine learning Projects**
